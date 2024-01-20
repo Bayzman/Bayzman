@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=bayzman&style=flat-square&color=blueviolet)
 
 ### Hi there 👋  I'm Ikechi
-🌟 Software Engineer | Machine Learning (ML) / Computer Vision (CV) Engineer | ML/CV Researcher 🌟
+🌟 Budding Software Engineer | Machine Learning (ML) / Computer Vision (CV) Engineer | ML/CV Researcher 🌟
 
 Welcome to my Github profile!
 
