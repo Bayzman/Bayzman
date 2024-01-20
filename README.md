@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=khairatAA&style=flat-square&color=blueviolet)
+
 ### Hi there 👋  I'm Ikechi
 🌟 Software Engineer | Machine Learning (ML) / Computer Vision (CV) Engineer | ML/CV Researcher 🌟
 
