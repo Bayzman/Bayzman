@@ -8,6 +8,7 @@ Welcome to my Github profile!
 * 🔭 I’m currently working on the ALX Software Engineering program
 
 <b>Skills</b>
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,git,bash,opencv,tensorflow)](https://skillicons.dev)
 
 <b>My GitHub Stats</b>
